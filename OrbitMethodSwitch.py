@@ -3,7 +3,7 @@ bl_info = {
     "version": (1, 0),
     "blender": (3, 0, 0),
     "location": "View3D > Header",
-    "description": "Convenient buttons to switch between orbit methods.",
+    "description": "Convenient orbit method toggle switch.",
     "category": "Interface",
 }
 
