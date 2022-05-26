@@ -6,4 +6,4 @@ Adds two buttons in the 3D view header. Useful when you use a graphics tablet an
 
 ## Installation
 
-Install using Blender's Addon Manager, and selecting the python script file.
+Extract the zip file. Go to "Edit > Preferences > Add-ons > Install..." and select OrbitMethodSwitch.py. Activate the addon and the buttons should appear in the top right corner of your 3D viewports.
