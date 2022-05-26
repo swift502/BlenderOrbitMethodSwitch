@@ -6,4 +6,4 @@ Adds two buttons in the 3D view header that allow you to switch between the _Tur
 
 ## Installation
 
-Extract the zip file. Go to "Edit > Preferences > Add-ons > Install..." and select OrbitMethodSwitch.py. Activate the addon and the buttons should appear in the top right corner of your 3D viewports.
+Extract the zip file. Go to "Edit > Preferences > Add-ons > Install..." and select the `OrbitMethodSwitch.py` python file. Activate the addon and the buttons should appear in the top right corner of your 3D viewports.
