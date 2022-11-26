@@ -1,3 +1,5 @@
+import bpy
+
 bl_info = {
     "name": "Orbit method switch",
     "version": (1, 0),
@@ -6,8 +8,6 @@ bl_info = {
     "description": "Convenient orbit method toggle switch.",
     "category": "Interface",
 }
-
-import bpy
 
 def toggle_orbit_method(self, context):
     layout = self.layout
@@ -22,6 +22,3 @@ def register():
 
 def unregister():
     bpy.types.VIEW3D_HT_header.remove(toggle_orbit_method)
-
-if __name__ == "__main__":
-    register()
